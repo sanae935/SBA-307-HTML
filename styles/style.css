@@ -68,4 +68,11 @@ text-align: center;
     position: relative;
     text-align: center;
     color:white;
+    
+}
+.carousel-inner img {
+    max-width: 50%; /* Set maximum width */
+    max-height: 600px; /* Set maximum height */
+    margin: auto; /* Center the image */
+
 }
