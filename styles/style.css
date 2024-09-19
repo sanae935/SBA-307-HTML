@@ -71,8 +71,15 @@ text-align: center;
     
 }
 .carousel-inner img {
-    max-width: 50%; /* Set maximum width */
-    max-height: 600px; /* Set maximum height */
-    margin: auto; /* Center the image */
+    max-width: 50%; 
+    max-height: 600px; 
+    margin: auto; 
 
 }
+.carousel-caption {
+    font-size: large;
+    font-weight:bold;
+    
+}
+
+
