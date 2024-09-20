@@ -113,3 +113,16 @@ text-align: center;
     text-align: start;
 }
 
+.form-wrapper h1 {
+    text-align: center;
+    
+}
+.form-wrapper p {
+    text-align: center;
+   
+}
+.image-container {
+    align-items: center; 
+    justify-content: space-around;
+}
+
